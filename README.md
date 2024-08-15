@@ -2,7 +2,7 @@
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-augusto-244a01313/)
-[![intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/astapjl/?utm_source=qr&r=nametag)
+[![intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_gustavoaugusto/?utm_source=qr&r=nametag)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhaugusto&show_icons=true&theme=dracula)
 
