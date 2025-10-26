@@ -22,7 +22,7 @@
   ## 🌐 Minhas Redes Sociais
 
   <div> 
-  
+  <a href= "https://wa.me/5524992438454" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-250366?style=for-the-badge&logo-whatsapp&logoColor=white"></a>
   <a href= "https://www.instagram.com/gustavo.haugusto?igsh=MWJoYnltZmE4cm9mOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-augusto-244a01313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
