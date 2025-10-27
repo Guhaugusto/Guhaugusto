@@ -4,7 +4,7 @@
   <p>
     Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
     Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
-    modernos e adaptáveis (Conhecimentos em: PHP, Laravel, Mysql, HTML5, CSS3, JavaScript, Bootstrap).
+    modernos e adaptáveis (Conhecimentos em: PHP, Laravel, Mysql, HTML5, CSS3, JavaScript).
   </p>
 </div>
 
@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  
 
   ## 🌐 Minhas Redes Sociais
 
